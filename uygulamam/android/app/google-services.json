@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "615104074259",
+    "firebase_url": "https://uygulamam-181f6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "uygulamam-181f6",
+    "storage_bucket": "uygulamam-181f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615104074259:android:c187cfc7862a87739f65e6",
+        "android_client_info": {
+          "package_name": "com.example.shrine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5fh34rUXSOf5P4qcU-SmgACECVokRwWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
